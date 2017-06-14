@@ -1,5 +1,7 @@
 # Alexa_ContentServer
-Attempting integration options to use Alexa / AI for information discovery with OpenText ContentServer as the backend
+Attempting integration options to use Alexa / AI for information discovery with OpenText ContentServer as the backend. At this stage it's simply a framework to start integrating REST API / javascript towards a public available demo server.
+
+The purpose is to inspire discussions around AI and Information Management / Discovery.
 
 Preparation:
 - Install alexa-dsk:
