@@ -1,0 +1,37 @@
+searchIntent search for {policy | searchQuery}
+searchIntent look up {policy | searchQuery}
+searchIntent get me documents containing {policy | searchQuery}
+searchIntent get me documents with {policy | searchQuery}
+searchIntent show me everything about {policy | searchQuery}
+searchIntent what do you know about {policy | searchQuery}
+detailIntent tell me details about {detailForNumber}
+detailIntent tell me more about {detailForNumber}
+detailIntent give me a summary of {detailForNumber}
+detailIntent give me details about {detailForNumber}
+detailIntent tell me something about {detailForNumber}
+detailIntent tell me details about {detailForNumber}
+detailIntent tell me more about document {detailForNumber}
+detailIntent give me a summary of document {detailForNumber}
+detailIntent give me details about document {detailForNumber}
+detailIntent tell me something about document {detailForNumber}
+readIntent read {readForNumber}
+readIntent read document {readForNumber}
+readIntent read document number {readForNumber}
+readIntent please read {readForNumber}
+readIntent please read document {readForNumber}
+readIntent please read document number {readForNumber}
+readIntent give me a synapsis for document {readForNumber}
+readIntent give me a synapsis for document number {readForNumber}
+statusIntent tell me about yourself
+statusIntent status
+statusIntent give me your status
+statusIntent who are you
+statusIntent are you ok
+statusIntent give me your status
+errorIntent Give me an error report
+errorIntent error
+errorIntent which error
+errorIntent which errors
+errorIntent which error did you have
+errorIntent which errors did you have
+errorIntent how reliable are you
