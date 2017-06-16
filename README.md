@@ -10,6 +10,9 @@ Preparation:
 - Install request (simple HTTP POST/GET requests)
   npm install --save request
 
+- Install moment for Alexa friendly date formating and calculation
+  npm install moment --save
+
 - For testing, I recommend installing alexa-skill-test (https://github.com/voiyse/alexa-skill-test)
   npm install -g alexa-skill-test
 
