@@ -4,7 +4,7 @@ Attempting integration options to use Alexa / AI for information discovery with 
 The purpose is to inspire discussions around AI and Information Management / Discovery.
 
 Preparation:
-- Install alexa-dsk:
+- Install alexa-sdk:
   npm install --save alexa-sdk
 
 - Install request (simple HTTP POST/GET requests)
