@@ -1,7 +1,9 @@
 # Alexa_ContentServer
 Attempting integration options to use Alexa / AI for information discovery with OpenText ContentServer as the backend - this is only an illustration using node.js as the interaction framework, together with the Alexa Skills SDK - or - a framework to start integrating REST API / javascript towards a public available demo server.
 
-This project is closed as the comprehensive integration is here: https://github.com/jampac/AmazonAlexa_ContentServer_Showcase2
+This project is closed as the comprehensive integration is now located here: https://github.com/jampac/AmazonAlexa_ContentServer_Showcase2
+
+The third part of the following video summarises the implemented capabilites of this closes project.
 
 [![Amazon Alexa and OpenText Content Server](http://i.imgur.com/xYbYiFn.png)](https://youtu.be/1GXQjdMriyE "OpenText and Amazon Alexa integration - an illustration")
 
